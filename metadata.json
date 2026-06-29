@@ -1,0 +1,6 @@
+{
+  "name": "Titanic Survival Prediction",
+  "description": "An interactive machine learning and AI playground exploring the Titanic passenger survival dataset with custom predictions and Gemini explanation models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
